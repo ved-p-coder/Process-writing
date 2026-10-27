@@ -68,6 +68,5 @@ Your preparation begins with...
 
 [5] U.S. Department of Homeland Security, “Career Tracks,” DHS Cybersecurity Service. [Online]. Available: https://dhscs.usajobs.gov/careertracks. [Accessed Oct. 26, 2026].
 
-[5] U.S. Department of Homeland Security, "[Career Tracks](https://dhscs.usajobs.gov/careertracks)."
 
 [word count: 664]
