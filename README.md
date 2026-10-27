@@ -1,7 +1,7 @@
 # Graduation Learning Plan: Preparing for an Entry-Level SOC Analyst Career
 
 **Prepared for:** Husky student pursuing a job as a SOC Analyst  
-**Prepared by:** Ved Patel 
+**Prepared by:** Ved Patel           
 **Date:** October 27, 2026
 
 ---
