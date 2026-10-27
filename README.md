@@ -21,7 +21,7 @@
 
 ## Building Technical Foundations
 
-
+The job of a Security Operations Center (SOC) Analyst monitors security alerts, inspect any suspicious activity in the network, and escalate incidents to higher level SOC Analysts. Preparing for this role involves learning security tools and understand normal computer & network behavior to recognize signs of an attack. Sources like SANS and TryHackMe talk about the importance of building technical foundations first.
 
 
 ### Relevant Coursework
