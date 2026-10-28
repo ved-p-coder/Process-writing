@@ -30,32 +30,29 @@ Use your computer science degree to develop skills that connect directly to secu
 
 ### Networking and Operating Systems
 
-Practise the fundamentals outside class. Learn TCP/IP, DNS, HTTP, common ports, routing, and firewall behavior. On Windows, explore Event Viewer, user accounts, running processes, and authentication records. On Linux, practise navigating directories, examining permissions, and reading system logs. Learn how phishing, brute-force login attempts, malware, and suspicious network connections may appear in system activity. A practical SOC roadmap recommends progressing from systems and networking fundamentals to log interpretation and alert investigation [3]. 
-...
+It is necessary to practice the fundamentals outside of class. Practice concepts like TCP/IP, DNS, HTTP, common ports, routing, and firewall behavior. On Windows, explore Event Viewer, user accounts, running processes, and authentication records. On Linux, practice navigating directories, examining permissions, and reading system logs. Learn how phishing, brute-force login attempts, malware, and suspicious network connections may appear in system activity. A practical SOC roadmap recommends progressing from systems and networking fundamentals to log interpretation and alert investigation. Learning and practicing these skills will build a strong foundation.
 
 ## Gaining Practical Experience
 
+While coursework can give you the knowledge, hands-on experience shows you how to apply the knowledge in real security incidents. Build experience in small, documented stages rather than trying to learn every security product at once.
+
 ### Learning SIEM and Alert Investigation
 
-...
+Learn one security information and event management (SIEM) platform like Splunk or Microsoft Sentinel. A SIEM collects and searches logs from systems and security tools. Start with sample logs and practice identifying repeated failed logins, unusual account activity, and unexpected connections. For each alert, record the affected system, timestamp, evidence, possible explanations, and recommended next step. Explain why the activity appears suspicious and what additional evidence would help confirm the finding. SANS and TryHackMe both identify monitoring, alert investigation, and incident response as central parts of SOC work. 
 
 ### Building a Security Portfolio
 
-...
-
-**Figure 1.** Learning progression for entry-level SOC Analyst preparation.
-
-[Insert your self-designed flowchart here.]
+Create a few projects that demonstrate these skills. You could build a small lab that collects sample Windows or Linux logs and uses a SIEM or log-analysis tool to investigate suspicious events. Or you could write an incident report based on a safe, public dataset. Include a timeline, relevant evidence, your conclusion, and recommended response. Store sanitized screenshots, search queries, setup instructions, and reports in GitHub. A portfolio gives employers concrete evidence of your reasoning when professional SOC experience is limited.
 
 ## Preparing for Employment
 
 ### Developing Professional Skills
 
-...
+Practice explaining technical findings in plain language. A useful incident report separates confirmed facts from assumptions, explains the potential impact, and identifies the next action. Review each project for accuracy, clear writing, and reproducible steps. These habits help demonstrate the analytical and communication skills needed when reporting suspicious activity to teammates or escalating an incident. 
 
 ### Applying for Entry-Level Roles
 
-...
+Review job postings for SOC Analyst I, Tier 1 SOC Analyst, security operations intern, and junior security analyst positions. Record repeated requirements and compare them with your coursework, labs, and projects. Update your resume to highlight matching skills and link to your strongest reports. Apply for internships while studying and consider IT support or network support roles that build relevant troubleshooting experience. Government career guidance also identifies entry-level cybersecurity pathways for people developing technical expertise. Reassess your progress each quarter and focus next on the largest skill gap.
 
 ## References
 
@@ -70,4 +67,4 @@ Practise the fundamentals outside class. Learn TCP/IP, DNS, HTTP, common ports, 
 [5] U.S. Department of Homeland Security, “Career Tracks,” DHS Cybersecurity Service. [Online]. Available: https://dhscs.usajobs.gov/careertracks. [Accessed Oct. 26, 2026].
 
 
-[word count: 664]
+[word count: 644]
