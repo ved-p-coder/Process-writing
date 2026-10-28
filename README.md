@@ -26,7 +26,7 @@ The job of a Security Operations Center (SOC) Analyst monitors security alerts, 
 
 ### Relevant Coursework
 
-Your preparation begins with...
+Use your computer science degree to develop skills that connect directly to security operations. Prioritize courses in computer networks, operating systems, computer architecture, and programming. Classes like CSS 430: Operating Systems, CSS 432: Network Design, and CSS 310: Information Assurance and Cybersecurity. CSS 430: Operating Systems will be important to understand system processes, threads, file management, and memory allocation. CSS 432: Network Design will help understand concepts like OSI model, TCP/IP, routing, switching, and packet analysis. CSS: 310 Information Assurance and Cybersecurity will give an introduction to threat modeling, vulnerability management, and risk mitigation. These concepts will build the technical foundation to take the first step to prepare for a role as a SOC Analyst.
 
 ### Networking and Operating Systems
 
