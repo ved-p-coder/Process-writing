@@ -30,6 +30,7 @@ Use your computer science degree to develop skills that connect directly to secu
 
 ### Networking and Operating Systems
 
+Practise the fundamentals outside class. Learn TCP/IP, DNS, HTTP, common ports, routing, and firewall behavior. On Windows, explore Event Viewer, user accounts, running processes, and authentication records. On Linux, practise navigating directories, examining permissions, and reading system logs. Learn how phishing, brute-force login attempts, malware, and suspicious network connections may appear in system activity. A practical SOC roadmap recommends progressing from systems and networking fundamentals to log interpretation and alert investigation [3]. 
 ...
 
 ## Gaining Practical Experience
