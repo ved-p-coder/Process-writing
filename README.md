@@ -62,9 +62,7 @@ Review job postings for SOC Analyst I, Tier 1 SOC Analyst, and other similar pos
 
 [3] K. Rapacz, “How to Become a SOC Analyst: 2026 Roadmap,” Breachroad, Jul. 22, 2026. [Online]. Available: https://www.breachroad.com/en/blog/how-to-become-a-soc-analyst/. [Accessed Oct. 26, 2026]. 
 
-[4] U.S. Bureau of Labor Statistics, “Information Security Analysts,” Occupational Outlook Handbook. [Online]. Available: https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm. [Accessed Oct. 26, 2026]. 
 
-[5] U.S. Department of Homeland Security, “Career Tracks,” DHS Cybersecurity Service. [Online]. Available: https://dhscs.usajobs.gov/careertracks. [Accessed Oct. 26, 2026].
 
 
 [word count: 613]
