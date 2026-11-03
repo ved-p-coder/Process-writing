@@ -52,7 +52,7 @@ Practice explaining technical findings in plain language. A useful incident repo
 
 ### Applying for Entry-Level Roles
 
-Review job postings for SOC Analyst I, Tier 1 SOC Analyst, security operations intern, and junior security analyst positions. Record repeated requirements and compare them with your coursework, labs, and projects. Update your resume to highlight matching skills and link to your strongest reports. Apply for internships while studying and consider IT support or network support roles that build relevant troubleshooting experience. Government career guidance also identifies entry-level cybersecurity pathways for people developing technical expertise. Reassess your progress each quarter and focus next on the largest skill gap.
+Review job postings for SOC Analyst I, Tier 1 SOC Analyst, security operations intern, and other similar positions. Record repeated requirements and compare them with your coursework, labs, and projects. Update your resume to highlight matching skills. Apply for internships while studying. Consider taking IT support or network support roles that build relevant troubleshooting experience. Government career guidance also identifies entry-level cybersecurity pathways for people developing technical expertise. Look for any gaps in skills and work on them.
 
 ## References
 
