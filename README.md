@@ -42,17 +42,17 @@ Learn one security information and event management (SIEM) platform like Splunk 
 
 ### Building a Security Portfolio
 
-Create a few projects that demonstrate these skills. You could build a small lab that collects sample Windows or Linux logs and uses a SIEM or log-analysis tool to investigate suspicious events. Or you could write an incident report based on a safe, public dataset. Include a timeline, relevant evidence, your conclusion, and recommended response. Store any screenshots, search queries, setup instructions, and reports in your GitHub. A portfolio gives employers concrete evidence of your reasoning when professional SOC experience is limited.
+Create a few projects that can show these skills. You could build a small lab that collects sample Windows or Linux logs and uses a SIEM or log-analysis tool to investigate suspicious events. Or you could write an incident report based on a public dataset. Include a timeline, relevant evidence, your conclusion, and recommended response. Store any screenshots, search queries, setup instructions, and reports in your GitHub. A portfolio gives employers concrete evidence of your reasoning when professional SOC experience is limited.
 
 ## Preparing for Employment
 
 ### Developing Professional Skills
 
-Practice explaining technical findings in plain language. A useful incident report separates confirmed facts from assumptions, explains the potential impact, and identifies the next action. Review each project for accuracy, clear writing, and reproducible steps. These habits help show the analytical and communication skills needed when reporting suspicious activity to teammates or escalating an incident. 
+Practice explaining technical findings in simple language. A useful incident report separates confirmed facts from assumptions, explains the potential impact, and identifies the next action. Review each project for accuracy, clear writing, and reproducible steps. These habits help show the analytical and communication skills needed when reporting suspicious activity to teammates or escalating an incident. 
 
 ### Applying for Entry-Level Roles
 
-Review job postings for SOC Analyst I, Tier 1 SOC Analyst, security operations intern, and other similar positions. Record repeated requirements and compare them with your coursework, labs, and projects. Update your resume to highlight matching skills. Apply for internships while studying. Consider taking IT support or network support roles that build relevant troubleshooting experience. Look for any gaps in skills and work on them.
+Review job postings for SOC Analyst I, Tier 1 SOC Analyst, and other similar positions. Record the requirements and compare them with your coursework, labs, and projects. Update your resume to highlight matching skills. Apply for internships while studying. Consider taking IT support or network support roles that build relevant troubleshooting experience. Look for any gaps in skills and work on them.
 
 ## References
 
@@ -67,4 +67,4 @@ Review job postings for SOC Analyst I, Tier 1 SOC Analyst, security operations i
 [5] U.S. Department of Homeland Security, “Career Tracks,” DHS Cybersecurity Service. [Online]. Available: https://dhscs.usajobs.gov/careertracks. [Accessed Oct. 26, 2026].
 
 
-[word count: 644]
+[word count: 613]
