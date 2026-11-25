@@ -51,7 +51,7 @@ Tier 1 analysts triage alerts and pass suspicious activity to Tier 2, so employe
 
 Learn security information and event management (SIEM) platform called Splunk. A SIEM collects and searches logs from systems and security tools. Start with sample logs and practice identifying repeated failed logins, unusual account activity, and unexpected connections. For each alert, record the affected system, timestamp, evidence, possible explanations, and recommended next step. Explain why the activity appears suspicious and what additional evidence would help confirm the finding. SANS and TryHackMe both identify monitoring, alert investigation, and incident response as central parts of SOC work. 
 
-Figure 1: Alert Triage
+#### Figure 1: Alert Triage
 
 
 
