@@ -1,7 +1,11 @@
 
 
 <img width="738" height="390" alt="images (5)" src="https://github.com/user-attachments/assets/5e4ae625-a4bb-4279-8242-10d089feb8ed" />
+
+
  © TryHackMe
+
+ 
 # Graduation Learning Plan: Preparing for an Entry-Level SOC Analyst Career
 
 **Prepared for:** Husky student pursuing a job as a SOC Analyst  
